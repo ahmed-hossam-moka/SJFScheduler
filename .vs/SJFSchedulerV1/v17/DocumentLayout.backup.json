@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\",
+  "WorkspaceRootPath": "D:\\SJFSchedulerV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|c:\\users\\ahmed hossam (moka)\\source\\repos\\sjfschedulerv1\\sjfschedulerv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|d:\\sjfschedulerv1\\sjfschedulerv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|solutionrelative:sjfschedulerv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|d:\\sjfschedulerv1\\sjfschedulerv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|solutionrelative:sjfschedulerv1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|c:\\users\\ahmed hossam (moka)\\source\\repos\\sjfschedulerv1\\sjfschedulerv1\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|solutionrelative:sjfschedulerv1\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|c:\\users\\ahmed hossam (moka)\\source\\repos\\sjfschedulerv1\\sjfschedulerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|d:\\sjfschedulerv1\\sjfschedulerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|solutionrelative:sjfschedulerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|c:\\users\\ahmed hossam (moka)\\source\\repos\\sjfschedulerv1\\sjfschedulerv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|solutionrelative:sjfschedulerv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|d:\\sjfschedulerv1\\sjfschedulerv1\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413EDE46-67EA-4749-A98A-D95D3966815D}|SJFSchedulerV1\\SJFSchedulerV1.csproj|solutionrelative:sjfschedulerv1\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "SJFSchedulerV1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.Designer.cs",
-              "RelativeToolTip": "SJFSchedulerV1\\Form1.Designer.cs",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAYwN0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:35:06.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Process.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Process.cs",
-              "RelativeDocumentMoniker": "SJFSchedulerV1\\Process.cs",
-              "ToolTip": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Process.cs",
-              "RelativeToolTip": "SJFSchedulerV1\\Process.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:32:59.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Program.cs",
-              "RelativeDocumentMoniker": "SJFSchedulerV1\\Program.cs",
-              "ToolTip": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Program.cs",
-              "RelativeToolTip": "SJFSchedulerV1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:32:26.603Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -77,15 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.cs",
+              "DocumentMoniker": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.cs",
               "RelativeDocumentMoniker": "SJFSchedulerV1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ahmed Hossam (MOKA)\\source\\repos\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.cs",
-              "RelativeToolTip": "SJFSchedulerV1\\Form1.cs",
-              "ViewState": "AgIAAOUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.cs*",
+              "RelativeToolTip": "SJFSchedulerV1\\Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T11:31:44.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SJFSchedulerV1\\Form1.Designer.cs",
+              "ToolTip": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Form1.Designer.cs",
+              "RelativeToolTip": "SJFSchedulerV1\\Form1.Designer.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAApwIAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:35:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Process.cs",
+              "DocumentMoniker": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Process.cs",
+              "RelativeDocumentMoniker": "SJFSchedulerV1\\Process.cs",
+              "ToolTip": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Process.cs",
+              "RelativeToolTip": "SJFSchedulerV1\\Process.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:32:59.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Program.cs",
+              "RelativeDocumentMoniker": "SJFSchedulerV1\\Program.cs",
+              "ToolTip": "D:\\SJFSchedulerV1\\SJFSchedulerV1\\Program.cs",
+              "RelativeToolTip": "SJFSchedulerV1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:32:26.603Z",
               "EditorCaption": ""
             }
           ]

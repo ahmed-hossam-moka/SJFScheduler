@@ -126,11 +126,12 @@ namespace SJFSchedulerV1
             // label4
             this.label4.Anchor = ((AnchorStyles)((AnchorStyles.Top | AnchorStyles.Left)));
             this.label4.AutoSize = true;
-            this.label4.Location = new Point(450, 0);
+            this.label4.Location = new Point(250, 60);
             this.label4.Name = "label4";
-            this.label4.Size = new Size(20, 15);
+            this.label4.AutoSize = true;
             this.label4.TabIndex = 11;
-            this.label4.Text = "Gantt Chart";
+            this.label4.Text = "Gantt Chart:-";
+            this.label4.Font = Font = new Font(this.Font, FontStyle.Bold );
 
             // btnClear
             this.btnClear.Location = new Point(109, 3);
@@ -218,5 +219,8 @@ namespace SJFSchedulerV1
         private TableLayoutPanel tableLayoutPanel1;
         private Panel panelInputs;
         private Panel panelButtons;
+        private Label lblAvgWaitingTime;
+        private Label lblAvgTurnaroundTime;
+        private Label lblAvgResponseTime;
     }
 }

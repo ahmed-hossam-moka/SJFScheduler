@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SJFSchedulerV1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a17f7bd1687bc10d46b8454732c3ea5433c8df57")]
 [assembly: System.Reflection.AssemblyProductAttribute("SJFSchedulerV1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SJFSchedulerV1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

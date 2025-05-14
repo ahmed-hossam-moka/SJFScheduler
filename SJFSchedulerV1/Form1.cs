@@ -9,8 +9,46 @@ namespace SJFSchedulerV1
         {
             InitializeComponent();
             SetupDataGridView();
+            CreateAverageTimeLabels();
         }
 
+ private void CreateAverageTimeLabels()
+{
+    lblAvgWaitingTime = new Label
+    {
+        Location = new Point(300, 10), // Position within panelButtons
+        AutoSize = true,
+        Text = "Average Waiting Time: ",
+        Name = "lblAvgWaitingTime",
+        Font = new Font(this.Font, FontStyle.Bold)
+    };
+    
+    lblAvgTurnaroundTime = new Label
+    {
+        Location = new Point(300, 30),
+        AutoSize = true,
+        Text = "Average Turnaround Time: ",
+        Name = "lblAvgTurnaroundTime",
+        Font = new Font(this.Font, FontStyle.Bold)
+    };
+    
+    lblAvgResponseTime = new Label
+    {
+        Location = new Point(300, 50),
+        AutoSize = true,
+        Text = "Average Response Time: ",
+        Name = "lblAvgResponseTime",
+        Font = new Font(this.Font, FontStyle.Bold)
+    };
+    
+    // Add to panelButtons
+    panelButtons.Controls.Add(lblAvgWaitingTime);
+    panelButtons.Controls.Add(lblAvgTurnaroundTime);
+    panelButtons.Controls.Add(lblAvgResponseTime);
+    
+    // Make panelButtons taller
+    this.tableLayoutPanel1.RowStyles[2].Height = 130; // Was 40
+}
         private void SetupDataGridView()
         {
             dataGridView1.Columns.Add("Name", "Process Name");
@@ -166,6 +204,8 @@ namespace SJFSchedulerV1
                 dataGridView1.Rows[i].Cells["TurnaroundTime"].Value = processes[i].TurnaroundTime;
                 dataGridView1.Rows[i].Cells["ResponseTime"].Value = processes[i].ResponseTime;
             }
+            DisplayAverageTimes();
+
         }
 
         private void DrawGanttChart(string selectedMetric = null)
@@ -249,13 +289,29 @@ namespace SJFSchedulerV1
                 hash & 0x0000FF
             );
         }
+        private void DisplayAverageTimes()
+        {
+            if (processes.Count == 0) return;
 
+            double avgWaiting = processes.Average(p => p.WaitingTime);
+            double avgTurnaround = processes.Average(p => p.TurnaroundTime);
+            double avgResponse = processes.Average(p => p.ResponseTime);
+
+            // Update the labels with the averages
+            lblAvgWaitingTime.Text = $"Average Waiting Time: {avgWaiting:F2}";
+            lblAvgTurnaroundTime.Text = $"Average Turnaround Time: {avgTurnaround:F2}";
+            lblAvgResponseTime.Text = $"Average Response Time: {avgResponse:F2}";
+        }
         private void btnClear_Click(object sender, EventArgs e)
         {
             processes.Clear();
             dataGridView1.Rows.Clear();
             panelGantt.Controls.Clear();
             ganttChart.Clear();
+
+            lblAvgWaitingTime.Text = "Average Waiting Time: ";
+            lblAvgTurnaroundTime.Text = "Average Turnaround Time: ";
+            lblAvgResponseTime.Text = "Average Response Time: ";
         }
     }
 }

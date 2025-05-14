@@ -12,3 +12,18 @@ C:\Users\Ahmed Hossam (MOKA)\source\repos\SJFSchedulerV1\SJFSchedulerV1\obj\Debu
 C:\Users\Ahmed Hossam (MOKA)\source\repos\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.pdb
 C:\Users\Ahmed Hossam (MOKA)\source\repos\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.genruntimeconfig.cache
 C:\Users\Ahmed Hossam (MOKA)\source\repos\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\ref\SJFSchedulerV1.dll
+D:\SJFSchedulerV1\SJFSchedulerV1\bin\Debug\net9.0-windows\SJFSchedulerV1.exe
+D:\SJFSchedulerV1\SJFSchedulerV1\bin\Debug\net9.0-windows\SJFSchedulerV1.deps.json
+D:\SJFSchedulerV1\SJFSchedulerV1\bin\Debug\net9.0-windows\SJFSchedulerV1.runtimeconfig.json
+D:\SJFSchedulerV1\SJFSchedulerV1\bin\Debug\net9.0-windows\SJFSchedulerV1.dll
+D:\SJFSchedulerV1\SJFSchedulerV1\bin\Debug\net9.0-windows\SJFSchedulerV1.pdb
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.AssemblyInfoInputs.cache
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.AssemblyInfo.cs
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.csproj.CoreCompileInputs.cache
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.sourcelink.json
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.dll
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\refint\SJFSchedulerV1.dll
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.pdb
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\SJFSchedulerV1.genruntimeconfig.cache
+D:\SJFSchedulerV1\SJFSchedulerV1\obj\Debug\net9.0-windows\ref\SJFSchedulerV1.dll
